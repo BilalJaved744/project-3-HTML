@@ -1,0 +1,187 @@
+html{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Foody strong{
+    font-weight: bold;
+    color: orange;
+}
+.Foody em{
+    color: green;
+    font-weight: bold;
+}
+.banner-1{
+    position: relative;    
+}
+.info-banner-1{
+    position: absolute;
+    margin-left: 340px;
+    top: 300px;
+}
+.container-fluid-2{
+    top: 150px;
+}
+.banner-2{
+
+height: 400px;
+}
+.info-banner-2{
+    margin-left: 900px;
+}
+.para button{
+    border-radius: 30px;
+}
+.container-fluid-3{
+    top: 100px;
+    height: 530px;
+}
+.boxes{
+    justify-content: space-around;
+}
+.btn-green button{
+    color: green;
+    border-radius: 30px;
+    border: green;
+}
+.Vegitables h6 strong{
+    color: green;
+}
+.Vegitables h6 em{
+    text-decoration: line-through;
+}
+/* .Vegitables{
+    position: relative;
+} */
+
+ .image-new strong{
+    top: 200px; 
+    /* position: absolute; */
+} 
+.content{
+    justify-content: space-evenly;
+}
+.btn-prod{
+    border-radius: 30px;
+}
+.paragraph-green{
+    background-color: rgb(14, 248, 14);
+    color: white;
+width: 100%;
+height: 200px;
+top: 100px;
+}
+.button-red button{
+    text-align: center;
+     margin-left: 200px;
+    margin-top: 100px;
+   border-radius: 30px;
+   background-color: orangered;
+   color: white;
+}
+.quotes-info{
+position: relative;
+}
+.quotes{
+top: -30px;
+left: 50px;
+font-size: 40px;
+    position: absolute;
+}
+.signs{
+    border: solid 2px rgb(24, 218, 24);
+    color: rgb(41, 219, 41);
+    cursor: pointer;
+}
+.signs:hover{
+color: rgb(232, 232, 236);
+background-color: blue;
+border-color: blue;
+}
+.dec-txt a{
+    text-decoration: none;
+    color: black;
+}
+.blk-clr{
+    background-color: black;
+    width: 100%;
+    height: 500px;
+}
+.foody h1{
+    color: rgb(22, 231, 22);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.foody strong{
+    font-weight: bold;
+    color: orange;
+}
+.sign{
+    border: solid 2px;
+}
+.list{
+    list-style: none;
+}
+.list a{
+    text-decoration: none;
+}
+.order a{
+    text-decoration: none;
+    color: white
+}
+.order a:hover{
+    color: blue;
+    background-color: rgb(30, 196, 30);
+}
+.EVS-team{
+    margin-right: 200px;
+}
+.icon-last{
+    border: solid 2px rgb(24, 218, 24);
+}
+.button-red :hover{
+    color: blue;
+    background-color: white;
+}
+.prod-hvr :hover{
+    color: rgb(250, 250, 250);
+    background-color: green;
+}
+.new-btn button :hover{
+    color: black;
+    background-color: white;
+}
+.new-btn :hover{
+    color: rgb(250, 250, 250);
+    background-color: blue;
+}
+.read-btn :hover{
+    color: rgb(250, 250, 250);
+    background-color: green;
+}
+.baba-btn :hover{
+    color: rgb(250, 250, 250);
+    background-color: blue;
+}
+.fst-btn :hover{
+    color: aliceblue;
+    background-color: orangered;
+}
+.first-nav :hover{
+    color: rgb(47, 48, 47);
+    font-size: 20px;
+}
+.icon-btn :hover{
+    color: blue;
+    background-color: white;
+}
+/* .Foody :hover{
+    font-size: 20px;
+} */
+.image-new :hover{
+    background-color: red;
+    color: white;
+}
+
